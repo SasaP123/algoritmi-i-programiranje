@@ -27,7 +27,7 @@ int main()
         cout<<"Kolicnik tih brojeva je "<<rezultat<<endl;
         cout<<endl;
 
-        cout<<"Ako zelite ponoviti program unesite (restart): ";
+        cout<<"Ako zelite ponoviti program unesite restart: ";
             cin>>restart;   cout<<endl;
 
         if(restart == "restart")
