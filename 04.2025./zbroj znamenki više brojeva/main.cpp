@@ -15,7 +15,7 @@ int main()
                 break;
 
             if(broj<0)
-                broj*=1;
+                broj*=-1;
 
             while(broj>0)
                 {
