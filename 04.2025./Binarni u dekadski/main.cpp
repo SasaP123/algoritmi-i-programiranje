@@ -14,7 +14,7 @@ int main()
 
     int B=broj;
 
-    while(broj>0)
+    while(broj>0)    //100,         0-0, 0-0, 1-*2*2
         {
             if(broj%10==1) //-ako je zadnja znamenka 1,neka se izdvaja
                 {
