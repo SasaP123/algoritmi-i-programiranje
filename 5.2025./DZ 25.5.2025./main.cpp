@@ -39,6 +39,6 @@ int main()
                 }
             cout<<i+1<<". zbroj: "<<zbroj<<endl;
         }
-    cout<<"Najmanji zbroj je "<<najmanji<<" u "<<red<<". redu."<<endl;
+    cout<<"Najmanji zbroj je "<<najmanji<<" u "<<red<<". redu. Stvarni red je "<<red-1<<endl;
 
 }
